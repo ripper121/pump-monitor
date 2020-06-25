@@ -1,0 +1,21 @@
+Pump-Guard
+Reset-Time (Minutes)
+Current (A)
+Save
+Pump
+Protection
+Turn On
+Turn Off
+Pump On
+Pump Off
+Protection On
+Protection Off
+Back
+Time
+Minutes
+Current
+Voltage
+Refresh
+Firmware-Update
+Version
+Saved

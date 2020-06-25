@@ -1,0 +1,21 @@
+Pump-Guard
+Ausschaltezeit (Minuten)
+Pumpen Strom (A)
+Speichern
+Pumpe
+Schutz
+An schalten
+Aus schalten
+Pumpe An
+Pumpe Aus
+Schutz An
+Schutz Aus
+Zurück
+Zeit
+Minuten
+Strom
+Spannung
+Aktualisieren
+Firmware-Update
+Version
+Gespeichert
